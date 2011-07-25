@@ -194,13 +194,17 @@ header h1, h2, h3 {
 	margin: 0;
 	padding: 0;
 }
+header h1 {
+	font-size: 48px;
+	line-height: 45px;
+}
 header h2 {
-	font-size: 65px;
+	font-size: 68px;
 	line-height: 60px;
 }
 header h3 {
-	font-size: 105px;
-	line-height: 90px;
+	font-size: 110px;
+	line-height: 80px;
 }
 
 footer {
